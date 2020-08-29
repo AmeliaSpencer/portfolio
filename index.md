@@ -1,5 +1,7 @@
 ## Welcome to Amelia's Portfolio
 
+![typing_test](https://github.com/AmeliaSpencer/portfolio/blob/gh-pages/images/typing.PNG?raw=true)
+
 You can use the [editor on GitHub](https://github.com/AmeliaSpencer/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
