@@ -1,6 +1,6 @@
 # Amelia Spencer Programming Portfolio 2021
 
-## Processing POrjects
+## Processing Projects
 
 ### SpaceGame
 An OOP Space Shooter game made in Processing winter 2020. Warning very loud.
